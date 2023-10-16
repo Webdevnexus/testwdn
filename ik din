@@ -1,9 +1,9 @@
 
 
 root.render(  
-  <React.StrictMode>  
+  <React.Strictmode>  
 
-  {/* <App/>        */}
+  <App/>        
   <Fetch/>
-  </React.StrictMode>
+  </React.Strictmode>
 ); 
