@@ -1,2 +1,9 @@
-Ik din 
-kutte ki mot
+
+
+root.render(  
+  <React.StrictMode>  
+
+  {/* <App/>        */}
+  <Fetch/>
+  </React.StrictMode>
+); 
